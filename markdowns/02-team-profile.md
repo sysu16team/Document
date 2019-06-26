@@ -16,16 +16,16 @@
 
 |学号|昵称|Github|岗位角色|
 |:--:|:--:|:--:|:--:|
-|16340300|赵佳乐|[ZhaoJle](https://github.com/ZhaoJle)|项目经理、java工程师|
-|16340297|张子轩|[B0zzx](https://github.com/B0zzx)|客户经理、UI/UX设计师|
-|16340299|赵博然|[Yaroglek](https://github.com/Yaroglek)|技术经理、js工程师|
-|16340312|周泽昊|[SilveryShoot](https://github.com/SilveryShoot)||
-* 管理岗：项目经理、客户经理、产品经理
-* 技术岗：架构师（技术经理）、java工程师、js工程师、UI/UX设计师、数据库DBA、AI技术经理等
-* 质量岗：QA 工程师、DevOps 工程师
+|16340300|赵佳乐|[ZhaoJle](https://github.com/ZhaoJle)|项目经理, 前端工程师|
+|16340297|张子轩|[B0zzx](https://github.com/B0zzx)|UI设计师, 前端工程师|
+|16340299|赵博然|[Yaroglek](https://github.com/Yaroglek)|数据库, 后端设计部署, 说明文档|
+|16340312|周泽昊|[SilveryShoot](https://github.com/SilveryShoot)|后端工程师|
 
 **具体分工与个人宣言**
 
 |昵称|分工内容|个人宣言|
 |:--:|:--:|:--:|
-|赵博然|负责项目实行的质量、安全、进度、成本管理的整体掌控；负责协助前端开发、界面优化和算法分析优化|堆到ddl赶作业|
+|赵佳乐|项目经理, 前端网页UI设计与实现, Voe.js的指导, 项目的验收|堆到ddl赶作业|
+|张子轩|前端UI设计与实现, 关键代码的实现, 例如异步设置头像|堆到ddl赶作业|
+|赵博然|项目文档, 数据库的设计与部署, 后端部分功能的实现, 项目部署|堆到ddl赶作业|
+|周泽昊|后端设计与实现, 各功能debug, node.js的指导|堆到ddl赶作业|
