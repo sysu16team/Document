@@ -19,13 +19,19 @@
   * [7.5 用例设计](https://sysu16team.github.io/Document/markdown/07.5.html)
 * 8\. 生产规范与指南
   * [8.1 代码规范](https://sysu16team.github.io/Document/markdown/08.1.html)
-  * [8.2 代码规范](https://sysu16team.github.io/Document/markdown/08.2.html)
-  * [8.3 代码规范](https://sysu16team.github.io/Document/markdown/08.3.html)
-  * [8.4 代码规范](https://sysu16team.github.io/Document/markdown/08.4.html)
+  * [8.2 RESTful API设计规范](https://sysu16team.github.io/Document/markdown/08.2.html)
+  * [8.3 框架目录设计与逻辑架构与ECB的关系](https://sysu16team.github.io/Document/markdown/08.3.html)
+  * [8.4 部署说明](https://sysu16team.github.io/Document/markdown/08.4.html)
 * 9\. 成品展示
   * [演示视频]()
 * X1. 会议记录
-* X2 看板管理
+  * [第一次会议记录](https://sysu16team.github.io/Document/markdown/X1.1.html)
+  * [第二次会议记录](https://sysu16team.github.io/Document/markdown/X1.2.html)
+  * [第三次会议记录](https://sysu16team.github.io/Document/markdown/X1.3.html)
+  * [第四次会议记录](https://sysu16team.github.io/Document/markdown/X1.4.html)
+  * [第五次会议记录](https://sysu16team.github.io/Document/markdown/X1.5.html)
+  * [第六次会议记录](https://sysu16team.github.io/Document/markdown/X1.6.html)
+* X2 [看板管理](https://github.com/sysu16team/Document/projects?query=is%3Aclosed)
 * X3 审计记录
 * X4 学生博客
   * [16340299 Navicat Premium的使用](https://sysu16team.github.io/Document/markdown/X4-16340299.1.html)
