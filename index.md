@@ -23,7 +23,7 @@
   * [8.3 框架目录设计与逻辑架构与ECB的关系](https://sysu16team.github.io/Document/markdown/08.3.html)
   * [8.4 部署说明](https://sysu16team.github.io/Document/markdown/08.4.html)
 * 9\. 成品展示
-  * [演示视频]()
+  * [演示视频](https://sysu16team.github.io/Document/video/video.html)
 * X1. 会议记录
   * [第一次会议记录](https://sysu16team.github.io/Document/markdown/X1.1.html)
   * [第二次会议记录](https://sysu16team.github.io/Document/markdown/X1.2.html)
@@ -35,6 +35,12 @@
 * X3 审计记录
 * X4 学生博客
   * [16340299 Navicat Premium的使用](https://sysu16team.github.io/Document/markdown/X4-16340299.1.html)
+  * [16340297 网页前端基础学习与使用](https://blog.csdn.net/zzx993539017/article/details/94360620)
+  * [16340297 vue学习与使用](https://blog.csdn.net/zzx993539017/article/details/94348667)
+  * [16340297 vue-router学习与使用](https://blog.csdn.net/zzx993539017/article/details/94353384)
+  * [16340297 iVew学习与使用](https://blog.csdn.net/zzx993539017/article/details/94355084)
+  * [16340297 axios学习与使用](https://blog.csdn.net/zzx993539017/article/details/94356504)
+  * [16340297 vue中的一些方法介绍](https://blog.csdn.net/zzx993539017/article/details/94355968)
 * X5 个人报告
   * [16340300 赵佳乐](https://sysu16team.github.io/Document/markdown/X5-16340300.html)
   * [16340297 张子轩](https://sysu16team.github.io/Document/markdown/X5-16340297.html)
