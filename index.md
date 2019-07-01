@@ -23,7 +23,7 @@
   * [8.3 框架目录设计与逻辑架构与ECB的关系](https://sysu16team.github.io/Document/markdown/08.3.html)
   * [8.4 部署说明](https://sysu16team.github.io/Document/markdown/08.4.html)
 * 9\. 成品展示
-  * [演示视频](https://sysu16team.github.io/Document/video/video.html)
+  * [演示视频](https://sysu16team.github.io/Document/video/video.mp4)
 * X1. 会议记录
   * [第一次会议记录](https://sysu16team.github.io/Document/markdown/X1.1.html)
   * [第二次会议记录](https://sysu16team.github.io/Document/markdown/X1.2.html)
