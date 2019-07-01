@@ -41,6 +41,12 @@
   * [16340297 iVew学习与使用](https://blog.csdn.net/zzx993539017/article/details/94355084)
   * [16340297 axios学习与使用](https://blog.csdn.net/zzx993539017/article/details/94356504)
   * [16340297 vue中的一些方法介绍](https://blog.csdn.net/zzx993539017/article/details/94355968)
+  + [16340300 nodejs学习笔记](https://blog.csdn.net/weixin_36324293/article/details/94350454)
+  + [16340300 node.js-NPM使用介绍](https://blog.csdn.net/weixin_36324293/article/details/94352597)
+  + [16340300 KOA2框架的学习和使用](https://blog.csdn.net/weixin_36324293/article/details/94357736)
+  + [16340300 KOA-async/await语法](https://blog.csdn.net/weixin_36324293/article/details/94357763)
+  + [16340300 Sequelize框架](https://blog.csdn.net/weixin_36324293/article/details/94357792)
+  + [16340300 koa2-实现API](https://blog.csdn.net/weixin_36324293/article/details/94357812)
 * X5 个人报告
   * [16340300 赵佳乐](https://sysu16team.github.io/Document/markdown/X5-16340300.html)
   * [16340297 张子轩](https://sysu16team.github.io/Document/markdown/X5-16340297.html)
